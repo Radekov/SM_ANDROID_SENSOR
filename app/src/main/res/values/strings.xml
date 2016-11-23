@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SM_Android_Czujniki</string>
+    <string name="some_text">Jakiś tekst</string>
+
+    <!--MENU-->
+    <string name="men_it_1" >Akcelerometrator</string>
+    <string name="men_it_2" >Zblieżeniacz</string>
+</resources>
